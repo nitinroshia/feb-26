@@ -1,0 +1,29 @@
+AI-Driven Debt Binge Threatens to Disrupt Passive Credit Funds
+The largest wave of corporate bond supply in history is set to be met by a rapidly-growing pool of passive buyers. Some investors are warning that disruption will follow.
+
+As Big Tech firms rush to raise unprecedented amounts of money to build out artificial intelligence, a growing share of those deals will be bought by passive funds. These strategies — which follow an index or buy a basket of bonds and wait until maturity — have ballooned in recent years, raising concerns that their indiscriminate style of bond buying has distorted metrics of risk and left investors vulnerable.
+
+Now, record issuance is set to test that buyer base in a couple of different ways. Some money managers think the supply surge will make the market vulnerable to a blowout — especially with risk premiums already near the tightest levels since the financial crisis. Others see a different risk: A structural shift in the investment-grade market itself.
+
+“Passives are being forced to take even larger chunks until it all unravels,” said Bryn Jones, head of fixed income at Rathbones Asset Management. Jones expects the influx of tech supply to echo the telecom issuance boom around the millennium, which ultimately led to widening risk premiums in that sector.
+
+Guggenheim Investments also warned that the huge amount of new bonds may be hard for the market to digest. “The added supply is likely to put modest upward pressure on spreads as markets absorb it,” a team led by Chief Investment Officer Anne Walsh wrote in a report this week. Hyperscalers alone could add as much as $120 billion in net corporate bond supply this year, they said.
+
+Another consideration is how more bonds from highly-rated firms like Alphabet Inc., Meta Platforms Inc. and Microsoft Corp. will alter the overall composition of credit indexes. Concentration risk is already worrying some stock investors, who fear that if the AI trade turns sour, the whole market will follow.
+
+Currently, tech makes up less than 10% of Bloomberg’s US high-grade index, but this is set to rise dramatically as the sector’s share of overall issuance increases. This is already playing out in the UK. Historically, tech has never been a big part of the sterling index, but Alphabet’s deal this week is set to make it the third-largest issuer in Bloomberg’s sterling investment-grade index when the tracker rebalances at the end of the month.
+
+‘Just a Rates Product’
+These changes in composition are meaningful for spreads, because top-rated firms like those in the tech sector typically have thinner risk premiums. As the proportion of these bonds increases, it removes the emphasis on spreads and makes the other component of corporate bond yields, the underlying government borrowing rate, the main driver of performance.
+
+“You think you bought a passive vehicle of corporate bonds and think it has a certain type of behavior in terms of correlation to other asset classes and you end up with just a rates product,” said Steffen Ullmann, senior portfolio manager for investment-grade at HAGIM GmbH.
+
+That could be a problem for passive investors, including the fixed-maturity funds that have become popular with mom-and-pop investors. They may miss out on the bigger returns typically associated with corporate bonds — and they may not be prepared for the type of macroeconomic and geopolitical risks that come with government debt.
+
+To be sure, the exact impact on passive investments’ performance is almost impossible to quantify yet as the ultimate level of supply and the eventual impact of AI on tech companies remain unclear.
+
+And so far, debt sales by the sector have been lapped up, with Alphabet’s almost $32 billion bond deal across three markets getting huge orders. The Google parent tapped a range of typically more niche markets to raise large sums without overwhelming demand, easing concerns about oversupply.
+
+Still, the enormous spending plans of these tech giants sets the scene for ever-bigger debt issues — and large purchases by passive funds. Indeed, fixed maturity funds have already started scooping up the bonds of AI leaders, with around 70 such funds holding bonds issued by Microsoft, Alphabet, Meta or Amazon.com Inc., based on data compiled by Bloomberg.
+
+“It’s one of those topics where current developments and flaws of index construction in credit come together and many investors just go with it,” said Ullmann.
