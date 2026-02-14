@@ -1,0 +1,24 @@
+Pentagon Used Anthropic’s Claude in Maduro Venezuela Raid
+Anthropic’s artificial-intelligence tool Claude was used in the U.S. military’s operation to capture former Venezuelan President Nicolás Maduro, highlighting how AI models are gaining traction in the Pentagon, according to people familiar with the matter.
+
+The mission to capture Maduro and his wife included bombing several sites in Caracas last month. Anthropic’s usage guidelines prohibit Claude from being used to facilitate violence, develop weapons or conduct surveillance.
+
+“We cannot comment on whether Claude, or any other AI model, was used for any specific operation, classified or otherwise,” said an Anthropic spokesman. “Any use of Claude—whether in the private sector or across government—is required to comply with our Usage Policies, which govern how Claude can be deployed. We work closely with our partners to ensure compliance.”  
+
+The Defense Department declined to comment.
+
+The deployment of Claude occurred through Anthropic’s partnership with data company Palantir Technologies PLTR 1.77%increase, whose tools are commonly used by the Defense Department and federal law enforcement, the people said. Anthropic’s concerns about how Claude can be used by the Pentagon have pushed administration officials to consider canceling its contract worth up to $200 million, The Wall Street Journal previously reported. Palantir didn’t immediately respond to a request for comment.
+
+Anthropic was the first AI model developer to be used in classified operations by the Department of Defense. It is possible other AI tools were used in the Venezuela operation for unclassified tasks. The tools can be used for everything from summarizing documents to controlling autonomous drones.
+
+Adoption by the military is seen as a key boost for AI companies that are competing for legitimacy and seeking to live up to their enormous valuations from investors. 
+
+Anthropic Chief Executive Dario Amodei and other CEOs have been publicly grappling with the power of their models and the risks they could pose to society. Amodei has broken with many other industry executives in calling for greater regulation and guardrails to prevent harms from AI. The safety-focused company and others in the industry have lost workers who have described them as giving priority to growth over responsible technology development. 
+
+At a January event announcing that the Pentagon would be working with xAI, Defense Secretary Pete Hegseth said the agency wouldn’t “employ AI models that won’t allow you to fight wars,” a comment that referred to discussions administration officials have had with Anthropic, the Journal reported.
+
+The $200 million contract was awarded to Anthropic last summer. Amodei has publicly expressed concern about AI’s use in autonomous lethal operations and domestic surveillance, the two major sticking points in its current contract negotiations with the Pentagon, according to people familiar with the matter. 
+
+The constraints have escalated the company’s battle with the Trump administration, which includes accusations that Anthropic is undermining the White House’s low-regulation AI strategy by calling for more guardrails and limits on AI chip exports.
+
+Amodei and other co-founders of Anthropic previously worked at OpenAI, which recently joined Google’s Gemini on an AI platform for military personnel used by some three million people. The company and Defense Department said the custom version of ChatGPT would be used for analyzing documents, generating reports and supporting research. 
